@@ -1,0 +1,15 @@
+streamlit
+PyPDF2
+google.generativeai
+python-dotenv
+streamlit_extras
+fastapi
+python-multipart
+uvicorn
+google-generativeai
+PyPDF2
+python-dotenv
+langdetect
+googletrans==4.0.0-rc1
+deep-translator
+bs4
