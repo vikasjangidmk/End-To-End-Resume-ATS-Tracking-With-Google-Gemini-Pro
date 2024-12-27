@@ -32,7 +32,7 @@ def main():
 
     # Sidebar
     with st.sidebar:
-        st.title("🎯 SMART ATS")
+        st.title("🎯 Smart ATS")
         st.subheader("About")
         st.write("""
         This smart ATS helps you:
@@ -42,7 +42,7 @@ def main():
         """)
 
     # Main content
-    st.title("📄 ATS Resume Analyzer")
+    st.title("📄 Smart ATS Resume Analyzer")
     st.subheader("Optimize Your Resume for ATS")
     
     # Input sections with validation

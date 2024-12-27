@@ -80,10 +80,6 @@ def prepare_prompt(resume_text, job_description):
     - Data science
     - Data analysis
     - Big data engineering
-    - Generative AI Engineer 
-    - Machine Learning Engineer 
-    - Data Scientist 
-    - AI & Machine Learning Expert
     
     Evaluate the following resume against the job description. Consider that the job market 
     is highly competitive. Provide detailed feedback for resume improvement.
